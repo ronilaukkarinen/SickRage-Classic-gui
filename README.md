@@ -10,3 +10,10 @@ Just clone the repo and replace the files. This causes problems with SickRage up
 
 	git reset --hard
 	git pull
+
+Quick commands for minor theme updates:
+
+    cp ~/SickRage-Classic-gui/gui/slick/interfaces/default/config_general.tmpl ~/SickRage/gui/slick/interfaces/default/config_general.tmpl
+    cp ~/SickRage-Classic-gui/gui/slick/interfaces/default/inc_top.tmpl ~/SickRage/gui/slick/interfaces/default/inc_top.tmpl
+
+My own superior SickBeard theme is in development soon enough.
