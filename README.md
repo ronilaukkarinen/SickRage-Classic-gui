@@ -9,13 +9,16 @@ I love Sickbeard/SickRage development, but lately the UI has been gone sideways 
 Just clone the repo and replace the files. This causes problems with SickRage updates, but you can easily update with this routine:
 
 	git reset --hard
+	git clean -f
 	git pull
+
+## Installation 
 
 Quick installation example after cloning into home:
 
-    cp ~/SickRage-Classic-gui/gui ~/SickRage/
+    cp -Rv ~/SickRage-Classic-gui/gui ~/SickRage/
 
-After replacing the files you can activate the theme by editing config `theme_name = classic` or going to **Settings > General > UI Theme Settings** and selecting Classic there.
+After replacing the files and restarting you can activate the theme by editing config `theme_name = classic` or going to **Settings > General > UI Theme Settings** and selecting Classic there.
 
 ## More?
 
