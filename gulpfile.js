@@ -6,7 +6,7 @@ REQUIRED STUFF
 
 var changed     = require('gulp-changed');
 var gulp        = require('gulp');
-var sass        = require('gulp-ruby-sass');
+var sass        = require('gulp-sass');
 var prefix      = require('gulp-autoprefixer');
 var minifycss   = require('gulp-minify-css');
 var util        = require('gulp-util');
