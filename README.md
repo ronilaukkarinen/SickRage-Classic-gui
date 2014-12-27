@@ -14,7 +14,11 @@ Just clone the repo and replace the files. This causes problems with SickRage up
 
 ## Installation 
 
-Quick installation example after cloning into home:
+Quick installation without template files:
+
+    cp -Rv ~/SickRage-Classic-gui/gui/slick/images ~/SickRage/gui/slick/
+
+Installation with template files after cloning into home (use with caution! may not work if my theme is behind current SickRage version):
 
     cp -Rv ~/SickRage-Classic-gui/gui ~/SickRage/
 
