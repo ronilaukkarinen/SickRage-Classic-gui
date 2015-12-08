@@ -23,9 +23,3 @@ Installation with template files after cloning into home (use with caution! may 
     cp -Rv ~/SickRage-Classic-gui/gui ~/SickRage/
 
 After replacing the files and restarting you can activate the theme by editing config `theme_name = classic` or going to **Settings > General > UI Theme Settings** and selecting Classic there.
-
-## More?
-
-My own superior SickBeard theme is in development soon enough.
-
-This is just a start.
