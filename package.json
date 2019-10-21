@@ -16,6 +16,6 @@
   },
   "dependencies": {
     "backbone": "~1.1.2",
-    "jquery": "~2.1.0"
+    "jquery": "~3.4.1"
   }
 }
