@@ -47,7 +47,6 @@
 }
 
 .show-network-image {
-  filter: grayscale(100%) invert(100%);
-  opacity: .7;
+  filter: grayscale(100%);
 }
 
