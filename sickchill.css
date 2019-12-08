@@ -1,0 +1,51 @@
+.navbar-brand {
+  background: url('http://peikko.us/sickbeard-classic.png');
+  width: 150px;
+  height: 72px;
+  position: absolute;
+}
+
+.navbar-brand img {
+  opacity: 0;
+}
+
+.navbar-default {
+  background: #333;
+}
+
+.dropdown-menu {
+  background: #fafafa;
+  box-shadow: none;
+}
+
+.show-container {
+  box-shadow: none !important;
+  border: 0 !important;
+}
+
+.show-container .ui-widget-content {
+  border-top: 0;
+  border-bottom: 0;
+}
+
+.info-container .pull-right img {
+  border: 0 !important;
+  max-height: 100px !important;
+  display: none;
+}
+
+.tvshowImg {
+  max-height: 400px;
+}
+
+#summary {
+  height: 343px;
+  border-radius: 6px;
+}
+
+.info-container {
+}
+
+.show-network-image {
+  filter: grayscale(100%);
+}
